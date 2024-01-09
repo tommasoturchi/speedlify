@@ -1,5 +1,5 @@
 module.exports = {
-  name: "19.studio", // optional, falls back to object key
+  name: "studio", // optional, falls back to object key
   description: "19.Studio Sites",
   options: {
     runs: 1,
