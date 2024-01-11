@@ -2,8 +2,7 @@ module.exports = {
   name: "trx.li", // optional, falls back to object key
   description: "trx.li Sites",
   options: {
-    runs: 1,
-    frequency: 1, // (in minutes)
+    frequency: 60 * 23, // (in minutes)
   },
   urls: [
     "https://axai.trx.li",
