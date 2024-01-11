@@ -1,6 +1,6 @@
 module.exports = {
   name: "trx.li", // optional, falls back to object key
-  description: "trx.li Sites",
+  description: "trx.li",
   options: {
     frequency: 60 * 23, // (in minutes)
   },

@@ -1,6 +1,6 @@
 module.exports = {
   name: "studio", // optional, falls back to object key
-  description: "19.Studio Sites",
+  description: "19.studio",
   options: {
     frequency: 60 * 23, // (in minutes)
   },
